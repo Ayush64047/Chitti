@@ -54,7 +54,7 @@
   },
   "addons": [
     {
-    "plan": "heroku-postgresql",
+    
       "options": {
         "version": "12"
       }
@@ -62,7 +62,7 @@
   ],
   "buildpacks": [
     {
-      "url": "heroku/python"
+      "url": "cyclic.sh"
     }
   ],
   "formation": {
@@ -72,4 +72,48 @@
     }
   }
 }
+
+
+  
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+   
+
+
+
+ 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
 
