@@ -36,7 +36,7 @@ Take your new Telegram bot live with one click. \
 
 **Free hosting. No credit card required.**
 
-[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/eludadev/telegram-bot)
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/chitti/telegram-bot)
 
 <p align="center"><img src="assets/deploying-to-cyclic.gif" alt="Deploying an app to Cyclic" /></p>
 
@@ -82,7 +82,7 @@ curl "https://api.telegram.org/bot$TELEGRAM_API_TOKEN/setWebhook?url=$TELEGRAM_W
 
 ### Local installation
 
-1. Clone the repository to your machine: `git clone https://github.com/eludadev/telegram-bot && cd telegram-bot`
+1. Clone the repository to your machine: `git clone https://github.com/chitti/telegram-bot && cd telegram-bot`
 
 2. Grab your bot's API token by messaging [\@BotFather](https://telegram.me/BotFather). (see above)
 
@@ -92,7 +92,7 @@ curl "https://api.telegram.org/bot$TELEGRAM_API_TOKEN/setWebhook?url=$TELEGRAM_W
 
 TELEGRAM_TOKEN=... # YOUR TELEGRAM API TOKEN
 
-```
+``
 
 4. Download dependencies: `yarn`
 
